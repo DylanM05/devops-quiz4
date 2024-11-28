@@ -1,0 +1,72 @@
+# Windows OS generated files
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET specific
+# User-specific files
+.idea/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebugTest/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]ist-x64/
+[Dd]ist-x86/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific Visual Studio for Mac files
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Microsoft Azure App Service
+*.azurePubXml
+
+# npm packages
+node_modules/
+
+# VS for Mac
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Core environment variables
+appsettings.Development.json
+appsettings.Production.json
+
+# DotCover
+.idea/dotCover/
+
+# VS Code settings
+.vscode/
+
+# JetBrains Rider IDE files
+.idea/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Misc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
