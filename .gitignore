@@ -25,6 +25,9 @@ ehthumbs.db
 
 # User-specific Visual Studio for Mac files
 .vscode/
+# Ignore Visual Studio specific files
+.vs/
+
 
 # Windows Installer files
 *.cab
